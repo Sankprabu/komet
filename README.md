@@ -9,7 +9,7 @@ $ pkg install python
 $ pkg install git
 $ pip install requests
 $ pip install bs4
-$ git clone https://github.com/Dapunta/AutoCreateFB
+$ git clone https://github.com/Sankprabu/komet
 ```
 ### ⇨  Menjalankan Script
 ```
