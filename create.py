@@ -74,7 +74,7 @@ def random_ua_vivo():
     b = random.randrange(1000,10000)
     c = random.randrange(10,100)
     os_ver = random.randrange(10,13)                                                            #--> OS Version
-    dv_typ = random.choice(['vivo 1951','vivo 1918','V2011A','V2047','V2145','V2227A','V2160']) #--> Device Type
+    dv_typ = random.choice(['CPH2269T2','CPH2269T2','CPH2269T2','CPH2269T2','CPH2269T2','CPH2269T2','CPH2269T2']) #--> Device Type
     bl_typ = random.choice(['RP1A','PKQ1','QP1A','TP1A'])                                       #--> Build Type
     dv_ver = random.randrange(100000,250000)                                                    #--> Device Version
     sd_ver = random.randrange(1,10)                                                             #--> Update Version
