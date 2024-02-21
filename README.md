@@ -13,7 +13,7 @@ $ git clone https://github.com/Sankprabu/komet
 ```
 ### ⇨  Menjalankan Script
 ```
-$ cd AutoCreateFB
+$ cd komet
 $ git pull
 $ python create.py
 ```
